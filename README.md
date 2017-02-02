@@ -1,7 +1,7 @@
 # Forum-Posts-Analysis
 
-+ For each student what is the hour during which the student has posted the most posts]
-
++ For each student what is the hour during which the student has posted the most posts.
++ Analyze the correlation between the length of a post and the length of answers.
 
 ### Dataset format
 
