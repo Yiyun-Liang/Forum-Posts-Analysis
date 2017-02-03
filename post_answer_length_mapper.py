@@ -1,4 +1,4 @@
-#!/usu/bin/python
+#!/usr/bin/python
 
 import sys
 import csv
