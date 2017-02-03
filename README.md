@@ -2,6 +2,8 @@
 
 + For each student what is the hour during which the student has posted the most posts.
 + Analyze the correlation between the length of a post and the length of answers.
++ Find out what are the top tags used in posts.
++ Help students form student groups.
 
 ### Dataset format
 
